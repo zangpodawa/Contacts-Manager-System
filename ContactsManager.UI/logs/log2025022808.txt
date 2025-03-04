@@ -1,0 +1,2 @@
+2025-02-28 08:50:34.081 +10:00 [INF] User profile is available. Using 'C:\Users\dawaz\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-28 08:50:34.224 +10:00 [INF] Now listening on: http://localhost:5153
